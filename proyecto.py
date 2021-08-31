@@ -4,6 +4,7 @@ from pygame.locals import *
 
 WIDTH = 640
 HEIGHT = 480
+hola = "hola"
 
 class Bola(pygame.sprite.Sprite):
     def __init__(self):
